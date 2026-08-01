@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+.env
+
+# Streamlit
+.streamlit/
+
+# VS Code
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Vector Database
+vector_store/
+
+# Uploaded Files
+uploads/
+
+# Python Cache
+.pytest_cache/
+
+# Build Files
+build/
+dist/
+*.egg-info/
+
+# Environment Variables
+.env
+
+# Temporary Files
+*.tmp
+*.temp
