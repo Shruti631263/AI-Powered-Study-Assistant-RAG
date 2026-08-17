@@ -73,8 +73,9 @@ AI-Powered-Study-Assistant-RAG/
 │
 ├── screenshots/
 │   ├── home.png
-│   ├── upload.png
-│   └── chat.png
+│   ├── document.png
+│   └── question1.png
+    └── question2.png
 │
 ├── app.py
 ├── config.py
